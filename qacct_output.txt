@@ -1,0 +1,86 @@
+qname        short.q             
+hostname     ...
+group        ...
+owner        ...
+project      NONE
+department   edevel
+jobname      matlab
+jobnumber    9599700
+taskid       undefined
+account      sge
+priority     12
+qsub_time    Mon Mar 21 14:48:26 2011
+start_time   Mon Mar 21 14:53:46 2011
+end_time     Mon Mar 21 14:54:06 2011
+granted_pe   NONE
+slots        1
+failed       100 : assumedly after job
+exit_status  137
+ru_wallclock 20
+ru_utime     1.976
+ru_stime     0.317
+ru_maxrss    0
+ru_ixrss     0
+ru_ismrss    0
+ru_idrss     0
+ru_isrss     0
+ru_minflt    33386
+ru_majflt    438
+ru_nswap     0
+ru_inblock   0
+ru_oublock   0
+ru_msgsnd    0
+ru_msgrcv    0
+ru_nsignals  0
+ru_nvcsw     2709
+ru_nivcsw    203
+cpu          2.690
+mem          3.431
+io           0.000
+iow          0.000
+maxvmem      2.062G
+arid         undefined
+==============================================================
+qname        short.q
+hostname     ...
+group        ...
+owner        ...
+project      NONE
+department   edevel
+jobname      matlab
+jobnumber    9599701
+taskid       undefined
+account      sge
+priority     12
+qsub_time    Mon Mar 21 14:48:26 2011
+start_time   Mon Mar 21 14:53:46 2011
+end_time     Mon Mar 21 14:54:06 2011
+granted_pe   NONE
+slots        1
+failed       100 : assumedly after job
+exit_status  137
+ru_wallclock 20
+ru_utime     1.976
+ru_stime     0.317
+ru_maxrss    0
+ru_ixrss     0
+ru_ismrss    0
+ru_idrss     0
+ru_isrss     0
+ru_minflt    33386
+ru_majflt    438
+ru_nswap     0
+ru_inblock   0
+ru_oublock   0
+ru_msgsnd    0
+ru_msgrcv    0
+ru_nsignals  0
+ru_nvcsw     2709
+ru_nivcsw    203
+cpu          2.690
+mem          3.431
+io           0.000
+iow          0.000
+maxvmem      2.062M
+arid         undefined
+==============================================================
